@@ -1,4 +1,4 @@
-# Lsplit
+# LSplit
 
 <img width="1045" height="481" alt="image" src="https://github.com/user-attachments/assets/f91a97cb-19d2-409b-b87f-dfe71b0a6baf" />
 
