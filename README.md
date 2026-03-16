@@ -18,6 +18,19 @@ Lsplit is a 58 keys split keybaord based on SUPERMINI microcontroller with ZMK f
 
 <img width="1396" height="343" alt="image" src="https://github.com/user-attachments/assets/57145252-6a9f-4eab-bb01-9c07344ff42d" />
 
+| Item | Count | Price Per Item | Total Cost | Source | Notes |
+|------|------|---------------|-----------|--------|------|
+| NRF52840 Development Board | 2 | $2.94 | $7.92 | https://www.aliexpress.com/item/1005001621678794.html | Cheap nice!nano + shipping for all of aliexpress items |
+| 1N4148 DO-35 Diodes | 1 | $2.00 | $2.00 | https://www.aliexpress.com/item/1005007131309837.html | Diodes |
+| Keycap Set | 1 | $10.00 | $10.00 | https://www.aliexpress.com/item/1005007511714496.html | Good quality keycap set |
+| JST battery connector | 1 | $2 | $2 | https://www.aliexpress.com/item/1005008970428474.html | Battery connector |
+| Power switch | 1 | $2 | $2 | https://www.aliexpress.com/item/1005006827258573.html | - |
+| Reset tactile button | 2 | $0 | $1 | https://www.aliexpress.com/item/1005006292427731.html | - |
+| Lithium Battery 110mAh | 1 | $8 | $8 | https://www.aliexpress.com/item/1005009279554068.html | Battery with protection PCB |
+| L+R PCB | 1 | $35.35 | $35.35 | https://cart.jlcpcb.com/quote | Both PCBs including shipping |
+| Kailh Choc v1 Low Profile Switches | 1 | $38 | $38 | https://www.aliexpress.com/item/1005006626760418.html | Need ~60 switches |
+| M2 Screws | 1 | $1.45 | $1.45 | https://www.aliexpress.com/item/1005005618746295.html | M2 screws |
+
 `TOTAL = 70 USD With All Items And Total Shipping`
 
 ## Images
