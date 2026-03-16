@@ -46,3 +46,11 @@ Lsplit is a 58 keys split keybaord based on SUPERMINI microcontroller with ZMK f
 
 <img width="1203" height="906" alt="image" src="https://github.com/user-attachments/assets/ad1f861b-613c-4d99-9e95-6cf235cc972b" />
 
+
+
+
+## JLCPCB
+
+<img width="1538" height="796" alt="Image" src="https://github.com/user-attachments/assets/ca0f7dc0-f1bc-4634-ad58-2b5e9991b0d5" />
+
+<img width="639" height="397" alt="Image" src="https://github.com/user-attachments/assets/0819a77c-fc97-4dcf-b19c-ff7d98b0365a" />
