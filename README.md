@@ -31,7 +31,7 @@ Lsplit is a 58 keys split keybaord based on SUPERMINI microcontroller with ZMK f
 | Kailh Choc v1 Low Profile Switches | 1 | $38 | $38 | https://www.aliexpress.com/item/1005006626760418.html | Need ~60 switches |
 | M2 Screws | 1 | $1.45 | $1.45 | https://www.aliexpress.com/item/1005005618746295.html | M2 screws |
 
-`TOTAL = 70 USD With All Items And Total Shipping`
+`TOTAL = 75 USD With All Items And Total Shipping`
 
 ## Images
 
