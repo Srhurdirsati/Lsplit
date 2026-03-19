@@ -20,18 +20,25 @@ Lsplit is a 58 keys split keybaord based on SUPERMINI microcontroller with ZMK f
 
 | Item | Count | Price Per Item | Total Cost | Source | Notes |
 |------|------|---------------|-----------|--------|------|
-| NRF52840 Development Board | 2 | $2.94 | $7.92 | https://www.aliexpress.com/item/1005001621678794.html | Cheap nice!nano + shipping for all of aliexpress items |
-| 1N4148 DO-35 Diodes | 1 | $2.00 | $2.00 | https://www.aliexpress.com/item/1005007131309837.html | Diodes |
-| Keycap Set | 1 | $10.00 | $10.00 | https://www.aliexpress.com/item/1005007511714496.html | Good quality keycap set |
-| JST battery connector | 1 | $2 | $2 | https://www.aliexpress.com/item/1005008970428474.html | Battery connector |
-| Power switch | 1 | $2 | $2 | https://www.aliexpress.com/item/1005006827258573.html | - |
-| Reset tactile button | 2 | $0 | $1 | https://www.aliexpress.com/item/1005006292427731.html | - |
-| Lithium Battery 110mAh | 1 | $8 | $8 | https://www.aliexpress.com/item/1005009279554068.html | Battery with protection PCB |
-| L+R PCB | 1 | $35.35 | $35.35 | https://cart.jlcpcb.com/quote | Both PCBs including shipping |
-| Kailh Choc v1 Low Profile Switches | 1 | $38 | $38 | https://www.aliexpress.com/item/1005006626760418.html | Need ~60 switches |
-| M2 Screws | 1 | $1.45 | $1.45 | https://www.aliexpress.com/item/1005005618746295.html | M2 screws |
+| NRF52840 Development Board | 2 | $2.94 | $7.92 | https://www.ubuy.co.in/product/NAPBZHNQ4-nrf52840-microcontroller-development-board-with-bt-5-0-compatible-with-circuitpython-for-wearables-prototyping-compact-size | nice!nano  |
+| 1N4148 DO-35 Diodes | 1 | $2.00 | $2.00 | https://amzn.in/d/07lIRt8Z| Diodes |
+| Keycap Set | 1 | $13.00 | $13.00 | https://amzn.in/d/0eJdOEmQ | Good quality keycap set |
+| JST battery connector | 1 | $2 | $2 | https://robu.in/product/jst-sh-2-pin-connector-2mm-pitch/ | Battery connector |
+| Power switch | 1 | $2 | $2 | Local  | - |
+| Reset tactile button | 2 | $0 | $1 | Local | - |
+| Lithium Battery 110mAh | 1 | $9 | $9 | https://amzn.in/d/03miu2QT | Battery with protection PCB |
+| L+R PCB | 1 | $35.35 | $35.35 | | Both PCBs including shipping |
+| Switches | 1 | $38 | $38 | https://amzn.in/d/0dICqnKR | Need ~60 switches |
+| M2 Screws | 1 | $1.45 | $1.45 | | M2 screws |
 
-`TOTAL = 75 USD With All Items And Total Shipping`
+<img width="756" height="808" alt="Amazon" src="https://github.com/user-attachments/assets/4de29958-f0eb-46b6-a178-5fd8de572291" />
+
+<img width="1236" height="963" alt="JST" src="https://github.com/user-attachments/assets/51c4f90a-d4ed-46e2-b33c-dd2b178f2328" />
+
+<img width="1920" height="966" alt="NRF" src="https://github.com/user-attachments/assets/b67f8fe2-37fe-42de-b9a0-d720331648f6" />
+
+
+`TOTAL = $64.5 For Components And #38 For PCB => $103`
 
 ## Images
 
